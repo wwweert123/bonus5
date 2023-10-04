@@ -11,4 +11,7 @@
 int main()
 {
     // TODO: Find the distance between the points p and q
+    char p, q;
+    scanf(" %c",&p);
+    scanf(" %c",&q);
 }
